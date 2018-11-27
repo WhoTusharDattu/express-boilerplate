@@ -84,7 +84,7 @@ If you encounter any problems, try the Troubleshooting section.
 Explore `config/env/development.js` for development environment configuration options.
 
 ### Running in Production mode
-To run your application with *production* environment configurationss:
+To run your application with *production* environment configuration:
 
 ```bash
 $ npm run start:prod
